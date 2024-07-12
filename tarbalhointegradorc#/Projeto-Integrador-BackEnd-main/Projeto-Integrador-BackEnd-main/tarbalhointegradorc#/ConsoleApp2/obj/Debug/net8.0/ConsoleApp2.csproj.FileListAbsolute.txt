@@ -1,0 +1,28 @@
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\guilherme.guedert\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\mille\OneDrive\Área de Trabalho\Projeto-Integrador-BackEnd-main\Projeto-Integrador-BackEnd-main\tarbalhointegradorc#\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
